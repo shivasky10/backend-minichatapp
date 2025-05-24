@@ -1,6 +1,3 @@
-I have reviewed the repository [shivasky10/backend-minichatapp](https://github.com/shivasky10/backend-minichatapp). Based on its structure and contents, here's a tailored `README.md` file you can use for your project:
-
----
 
 # MiniChatApp 🗨️
 

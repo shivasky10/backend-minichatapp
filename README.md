@@ -12,10 +12,11 @@ A minimal real-time chat application built with **Node.js**, **Express**, and **
 
 ## 🛠️ Tech Stack
 
-* **Backend**: Node.js, Express.js
-* **Database** : Mongodb
-* **Templating Engine**: EJS
 * **Frontend**: HTML, CSS, JavaScript
+* **Backend**: Node.js, Express.js
+* **Database** : Mongodb 
+* **Templating Engine**: EJS
+
 
 ## 📁 Project Structure
 
